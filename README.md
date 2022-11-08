@@ -1,4 +1,4 @@
-# Mr.-Miaucztajn-webpage
+# Mr. Miaucztajn-webpage
 
 :wave: Hello!
 
